@@ -1,2 +1,2 @@
 # Food-and-Agriculture-production-stats
-This repository analysis the production stats of agricultural products through both SQL &amp; Python
+This repository analyzes the production stats of agricultural products for the year 2024 through both SQL & Python
